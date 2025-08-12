@@ -5,10 +5,10 @@ A medspa financial dashboard that merges Actuals and Budget CSVs, computes deriv
 ## Open in StackBlitz
 After you push this repo to GitHub, replace `YOUR_GITHUB_USERNAME` below (and repo name if you change it), then click:
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/YOUR_GITHUB_USERNAME/medspa-finance-dashboard?file=index.html)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/jsuh-dot/medspa-finance-dashboard?file=index.html)
 
 ## Deploy to Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/YOUR_GITHUB_USERNAME/medspa-finance-dashboard)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jsuh-dot/medspa-finance-dashboard)
 
 ## Quick Start (Local)
 ```bash
